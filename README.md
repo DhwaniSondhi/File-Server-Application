@@ -11,7 +11,7 @@ The command to HTTP server:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>httpfs [-v] [-p PORT] [-d PATH-TO-DIR]</code><br/><br/>
 ***-v*** &nbsp;&nbsp;&nbsp;&nbsp;Prints debugging messages.<br/>
 ***-p*** &nbsp;&nbsp;&nbsp;&nbsp;Specifies the port number that the server will listen and serve at. Default is 8080.<br/>
-***-d*** &nbsp;&nbsp;&nbsp;&nbsp;Specifies the directory that the server will use to read/write requested files. Default is the current directory when launching the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;application.<br/>
+***-d*** &nbsp;&nbsp;&nbsp;&nbsp;Specifies the directory that the server will use to read/write requested files. Default is the current directory when launching the application.<br/>
 
 [Please click for more description.](https://github.com/DhwaniSondhi/File-Server-Application)
 
