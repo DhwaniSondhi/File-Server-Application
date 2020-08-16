@@ -5,7 +5,7 @@ This project is to create an end application with the HTTP server library. This 
 - ***POST /bar*** creates or overwrites the file named bar in the data directory with the content of the body of the request. 
 - Used a mechanism to prevent the clients to read/write any file outside the file server working directory to remove the severe access vulnerability.
 - Provides multi-requests, content-type, and content-disposition support.
-- Handles the commands of the [httpc](https://github.com/DhwaniSondhi/HTTP-Client-Implementation) (a HTTP client implementation).
+- Also handles the commands of [httpc](https://github.com/DhwaniSondhi/HTTP-Client-Implementation) (a HTTP client implementation).
 
 The command to HTTP server:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>httpfs [-v] [-p PORT] [-d PATH-TO-DIR]</code><br/><br/>
