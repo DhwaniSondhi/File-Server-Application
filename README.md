@@ -13,7 +13,7 @@ The command to HTTP server:<br/>
 ***-p*** &nbsp;&nbsp;&nbsp;&nbsp;Specifies the port number that the server will listen and serve at. Default is 8080.<br/>
 ***-d*** &nbsp;&nbsp;&nbsp;&nbsp;Specifies the directory that the server will use to read/write requested files. Default is the current directory when launching the application.<br/>
 
-[Please click for more description.](https://github.com/DhwaniSondhi/File-Server-Application)
+[Please click here for more description.](https://github.com/DhwaniSondhi/File-Server-Application/blob/master/Assignment%20Description.pdf)
 
 ### How to run?
 - Install Java 8+.
